@@ -1,6 +1,9 @@
 <div align="center">
+<a href="https://tridiamond.tech" target="_blank" rel="noopener noreferrer">
+    <img width="80" alt="image" src="https://raw.githubusercontent.com/bennyxguo/react-angular-demo/5da6dfba4e9cd53064bdc698fb60957f7aefdedb/resources/angular_logo.svg">
+  </a>
   <a href="https://tridiamond.tech" target="_blank" rel="noopener noreferrer">
-    <img width="80" alt="image" src="https://res.cloudinary.com/tridiamond/image/upload/v1627134299/github%20images/logo512_rcfide.png">
+    <img width="80" alt="image" src="https://raw.githubusercontent.com/bennyxguo/react-angular-demo/5da6dfba4e9cd53064bdc698fb60957f7aefdedb/resources/react_logo.svg">
   </a>
   <br/>
   <h1><b>Integrate Angular in React</b></h1>
@@ -8,6 +11,8 @@
 </div>
 
 ## Intro
+
+![structure-diagram](https://github.com/bennyxguo/react-angular-demo/blob/main/resources/structure-diagram.png?raw=true)
 
 In situation where a big application has multiple teams working with different frontend framework or structures.
 
