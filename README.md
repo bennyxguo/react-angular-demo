@@ -16,7 +16,7 @@
 
 In situation where a big application has multiple teams working with different frontend framework or structures.
 
-For example, we have a outer commonly used container which is built using React. The content of this container is built with Angular in a different framework and fronted.
+For example, we have a outer commonly used container which is built using React. The content of this container is built with Angular in a different framework and frontend.
 
 This setup should support the following features:
 
